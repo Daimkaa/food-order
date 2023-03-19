@@ -9,73 +9,73 @@ export default function Menu(){
             name: "Fugu Mirin Boshi",
             alternativeName: "ふぐ味醂干",
             translatedName: "Dried Puffer Fish",
-            price: "$14"
+            // price: "$14"
             },
             {
             name: "Eihire",
             alternativeName: "エイヒレ",
             translatedName: "Dried Stingray Fin",
-            price: "$14"
+            // price: "$14"
             },
             {
             name: "Tatami Iwashi",
             alternativeName: "たたみいわし",
             translatedName: "Dried Baby Sardine Sheets",
-            price: "$14"
+            // price: "$14"
             },
             {
             name: "Maguro Tataki",
             alternativeName: "まぐろタタキ",
             translatedName: "Lightly Seared Tuna",
-            price: "$14"
+            // price: "$14"
             },
             {
             name: "Nanban Zuke",
             alternativeName: "南蛮酢け",
             translatedName: "Vinegared Mixed Fish",
-            price: "$8"
+            // price: "$8"
             },
             {
             name: "Hiya Yako",
             alternativeName: "ひややこ",
             translatedName: "Cold Tofu",
-            price: "$6"
+            // price: "$6"
             },
             {
             name: "Takowasa",
             alternativeName: "たこわさび",
             translatedName: "Raw Octopus with Wasabi",
-            price: "$6"
+            // price: "$6"
             },
             {
             name: "Edamame",
             alternativeName: "枝豆",
             translatedName: "Boiled Young Soy Beans",
-            price: "$6"
+            // price: "$6"
             },
             {
             name: "Yaki Ginnan",
             alternativeName: "焼き銀杏",
             translatedName: "Grilled Ginkgo Nuts",
-            price: "$5"
+            // price: "$5"
             },
             {
             name: "Piri Kara Kyuri",
             alternativeName: "ピリ辛キュリ",
             translatedName: "Vinegared Cucumber",
-            price: "$4"
+            // price: "$4"
             },
             {
             name: "Kawahagi Roll",
             alternativeName: "カワハギロール",
             translatedName: "Dried Thread-sail filefish",
-            price: "$8"
+            // price: "$8"
             },
             {
             name: "Agedashi Tofu",
             alternativeName: "揚げ出し豆腐",
             translatedName: "Fried Tofu Simmered in Dashi Stock",
-            price: "$10"
+            // price: "$10"
             }
         ],
         SALAD: [
@@ -83,19 +83,19 @@ export default function Menu(){
             name: "Potato Sarada",
             alternativeName: "ポテトサラダ",
             translatedName: "Potato Salad",
-            price: "$8"
+            // price: "$8"
             },
             {
             name: "Daikon Sarada",
             alternativeName: "大根サラダ",
             translatedName: "Radish Salad",
-            price: "$8"
+            // price: "$8"
             },
             {
             name: "DARK HORSE Salad",
             alternativeName: "(Seasonal)",
             translatedName: "Chef's Selection of Freshest",
-            price: "$10"
+            // price: "$10"
             }
         ],
         SASHIMI: [
@@ -103,55 +103,55 @@ export default function Menu(){
                 name: "Sashimi Platter 3 kinds",
                 alternativeName: "Sashimi moriawase",
                 translatedName: "刺身盛り合わせ",
-                price: "$24",
+                // price: "$24",
                 },
             {
                 name: "Sashimi Platter 5 kinds",
                 alternativeName: "Sashimi moriawase",
                 translatedName: "刺身盛り合わせ",
-                price: "$40",
+                // price: "$40",
                 },
                 {
                 name: "Maguro",
                 alternativeName: "Maguro",
                 translatedName: "Tuna",
-                price: "$12"
+                // price: "$12"
                 },
                 {
                 name: "Salmon",
                 alternativeName: "Salmon",
                 translatedName: "Salmon",
-                price: "$12"
+                // price: "$12"
                 },
                 {
                 name: "Yellowtail",
                 alternativeName: "Hamachi",
                 translatedName: "ハマチ",
-                price: "$14"
+                // price: "$14"
                 },
                 {
                 name: "Swordfish",
                 alternativeName: "Mekajiki",
                 translatedName: "メカジキ",
-                price: "$14"
+                // price: "$14"
                 },
                 {
                 name: "Scallop",
                 alternativeName: "Hotate",
                 translatedName: "帆立",
-                price: "$12"
+                // price: "$12"
                 },
                 {
                 name: "Sweet Prawn",
                 alternativeName: "Prawn",
                 translatedName: "甘海老",
-                price: "$12"
+                // price: "$12"
                 },
                 {
                 name: "Oysters from Hyogo",
                 alternativeName: "Nama Kaki",
                 translatedName: "生牡蛎 (兵庫県)",
-                price: "$24/half dozen"
+                // price: "$24/half dozen"
                 },
         ],
         GRILLED: [
@@ -159,35 +159,35 @@ export default function Menu(){
                     name: "Wagyu",
                     alternativeName: "和牛",
                     translatedName: "Japanese Beef",
-                    price: "$6/stick"
+                    // price: "$6/stick"
                 },
                 {
                     name: "Tori",
                     alternativeName: "とり",
                     translatedName: "Chicken meat",
-                    price: "$2/stick"
+                    // price: "$2/stick"
                 },
                 {
                     name: "Tebasaki",
                     alternativeName: "手羽先",
                     translatedName: "Chicken Wing",
-                    price: "$3/stick"
+                    // price: "$3/stick"
                 },
                 {
                     name: "Gyutan",
                     alternativeName: "牛タン",
                     translatedName: "Beef Tongue",
-                    price: "$6/stick"
+                    // price: "$6/stick"
                 },
                 {
                     name: "Mekajiki",
                     alternativeName: "メカジキ",
                     translatedName: "Swordfish",
-                    price: "$6/stick"
+                    // price: "$6/stick"
                 },
                 {
                     name: "Ebi",
-                    price: "$12/3 sticks",
+                    // price: "$12/3 sticks",
                     alternativeName: "",
                     translatedName: "Tiger Prawn"
                 },
@@ -195,55 +195,55 @@ export default function Menu(){
                     name: "Buta Bara",
                     alternativeName: "豚バラ",
                     translatedName: "Pork Belly",
-                    price: "$12/3 sticks"
+                    // price: "$12/3 sticks"
                 },
                 {
                     name: "Shiitake",
                     alternativeName: "椎茸",
                     translatedName: "Shiitake Mushroom",
-                    price: "$2/stick"
+                    // price: "$2/stick"
                 },
                 {
                     name: "Hotate Isoyaki",
                     alternativeName: "ホタテ磯焼",
                     translatedName: "Grilled Scallops",
-                    price: "$12/2pcs"
+                    // price: "$12/2pcs"
                 },
                 {
                     name: "Unagi Kabayaki",
                     alternativeName: "鰻蒲焼",
                     translatedName: "Grilled Eel",
-                    price: "$14"
+                    // price: "$14"
                 },
                 {
                     name: "Salmon (Shioyaki/Teriyaki)",
                     alternativeName: "鮭(塩焼き / 照り焼き)",
                     translatedName: "Salmon Salt Grilled / Teriyaki",
-                    price: "$14"
+                    // price: "$14"
                 },
                 {
                     name: "Salmon Kabuto Shioyaki",
                     alternativeName: "サーモンかぶと塩焼き",
                     translatedName: "Salt Grilled Salmon Head",
-                    price: "$14"
+                    // price: "$14"
                 },
                 {
                     name: "Hamachi Kama Shioyaki",
                     alternativeName: "",
                     translatedName: "Salt Grilled Yellowtail fish collar",
-                    price: "$18"
+                    // price: "$18"
                 },
                 {
                     name: "Shima Hokke",
                     alternativeName: "",
                     translatedName: "Grilled Spanish Mackerel",
-                    price: "$18"
+                    // price: "$18"
                 },
                 {
                     name: "Bacon Wrapped Tomatoes",
                     alternativeName: "",
                     translatedName: "",
-                    price: "$12/ 3 sticks"
+                    // price: "$12/ 3 sticks"
                 },
         ],
         OKONOMIYAKI: [
@@ -251,37 +251,37 @@ export default function Menu(){
                 name: "Kaisen",
                 alternativeName: "",
                 translatedName: "Mixed Seafood",
-                price: "$15"
+                // price: "$15"
                 },
                 {
                 name: "Kaki",
                 alternativeName: "",
                 translatedName: "Oyster",
-                price: "$13"
+                // price: "$13"
                 },
                 {
                 name: "Ebi",
                 alternativeName: "",
                 translatedName: "Prawn",
-                price: "$13"
+                // price: "$13"
                 },
                 {
                 name: "Ika",
                 alternativeName: "",
                 translatedName: "Cuttlefish",
-                price: "$13"
+                // price: "$13"
                 },
                 {
                 name: "Salmon",
                 alternativeName: "",
                 translatedName: "Salmon",
-                price: "$13"
+                // price: "$13"
                 },
                 {
                 name: "Yasai",
                 alternativeName: "",
                 translatedName: "Mixed Vegetables",
-                price: "$10"
+                // price: "$10"
                 },
             ],
         FRIED:[
@@ -289,55 +289,55 @@ export default function Menu(){
                 name: "Tempura Moriawase",
                 alternativeName: "",
                 translatedName: "Mixed Tempura",
-                price: "$16"
+                // price: "$16"
                 },
                 {
                 name: "Ebi Tempura",
                 alternativeName: "",
                 translatedName: "Prawn Tempura",
-                price: "$20"
+                // price: "$20"
                 },
                 {
                 name: "Tori Tempura",
                 alternativeName: "",
                 translatedName: "Chicken Tempura",
-                price: "$12"
+                // price: "$12"
                 },
                 {
                 name: "Yasai Kakiage",
                 alternativeName: "",
                 translatedName: "Fried Mixed Vegetables",
-                price: "$10"
+                // price: "$10"
                 },
                 {
                 name: "Tori Karaage",
                 alternativeName: "",
                 translatedName: "Japanese Fried Chicken",
-                price: "$12"
+                // price: "$12"
                 },
                 {
                 name: "Tonkatsu",
                 alternativeName: "",
                 translatedName: "Fried pork cutlet",
-                price: "$8"
+                // price: "$8"
                 },
                 {
                 name: "Piri Kara Karaage",
                 alternativeName: "",
                 translatedName: "Vinegared Fried Chicken",
-                price: "$14"
+                // price: "$14"
                 },
                 {
                 name: "Ika Karaage",
                 alternativeName: "",
                 translatedName: "Fried Squid",
-                price: "$14"
+                // price: "$14"
                 },
                 {
                 name: "Cheese Mochi",
                 alternativeName: "",
                 translatedName: "",
-                price: "$8 (2pcs)"
+                // price: "$8 (2pcs)"
                 }
         ],
         STEW: [
@@ -345,19 +345,19 @@ export default function Menu(){
                 name: "Niku Tofu",
                 alternativeName: "肉豆腐",
                 translatedName: "Wagyu Beef stewed with Soft Tofu",
-                price: "$15"
+                // price: "$15"
             },
             {
                 name: "Gyu Niku to Daikon",
                 alternativeName: "牛肉と大根煮",
                 translatedName: "Beef chunks stewed with Radish",
-                price: "$15"
+                // price: "$15"
             },
             {
                 name: "Oden Moriawase",
                 alternativeName: "オデン盛り合わせ",
                 translatedName: "Japanese Winter Stew",
-                price: "$12"
+                // price: "$12"
             }
             ],
         TEPPAN_FRIED_RICE: [
@@ -365,49 +365,49 @@ export default function Menu(){
                 name: "Ninniku",
                 alternativeName: "にんにく",
                 translatedName: "Garlic",
-                price: "$8"
+                // price: "$8"
             },
             {
                 name: "Kaisen",
                 alternativeName: "海鮮",
                 translatedName: "Mixed Seafood",
-                price: "$15"
+                // price: "$15"
             },
             {
                 name: "Ebi",
                 alternativeName: "海老",
                 translatedName: "Prawn",
-                price: "$12"
+                // price: "$12"
             },
             {
                 name: "Yasai",
                 alternativeName: "野菜",
                 translatedName: "Vegetable",
-                price: "$8"
+                // price: "$8"
             },
             {
                 name: "Tamago",
                 alternativeName: "卵",
                 translatedName: "Egg",
-                price: "$10"
+                // price: "$10"
             },
             {
                 name: "Tori",
                 alternativeName: "Chicken",
                 translatedName: "Chicken",
-                price: "$12"
+                // price: "$12"
             },
             {
                 name: "Wagyu",
                 alternativeName: "Beef",
                 translatedName: "Beef",
-                price: "$16"
+                // price: "$16"
             },
             {
                 name: "Unagi",
                 alternativeName: "うなぎ",
                 translatedName: "Japanese Eel",
-                price: "$16"
+                // price: "$16"
             }
             ],
         Soup: [
@@ -415,7 +415,7 @@ export default function Menu(){
                 name: "Miso Shiru",
                 alternativeName: "味噌汁",
                 translatedName: "Miso Soup",
-                price: "$5"
+                // price: "$5"
             }
             ],
         RICE_BOWL_SET:[
@@ -423,61 +423,61 @@ export default function Menu(){
                 name: "Kaisen Don",
                 alternativeName: "海鮮丼",
                 translatedName: "Mixed Seafood Sashimi Rice Bowl",
-                price: "$32"
+                // price: "$32"
                 },
                 {
                 name: "Salmon Sashimi Don",
                 alternativeName: "サーモン丼",
                 translatedName: "Salmon Sashimi Rice Bowl",
-                price: "$25"
+                // price: "$25"
                 },
                 {
                 name: "Tekka Don",
                 alternativeName: "鉄火丼",
                 translatedName: "Tuna Sashimi Rice Bowl",
-                price: "$25"
+                // price: "$25"
                 },
                 {
                 name: "Maguro Salmon Don",
                 alternativeName: "鮪とサーモン丼",
                 translatedName: "Raw Tuna and Salmon Rice Bowl",
-                price: "$26"
+                // price: "$26"
                 },
                 {
                 name: "Tendon",
                 alternativeName: "天丼",
                 translatedName: "Tempura Rice Bowl",
-                price: "$25"
+                // price: "$25"
                 },
                 {
                 name: "Unagi Don",
                 alternativeName: "鰻丼",
                 translatedName: "Grilled Eel Rice Bowl",
-                price: "$28"
+                // price: "$28"
                 },
                 {
                 name: "Gyu Don",
                 alternativeName: "牛丼",
                 translatedName: "Beef Rice Bowl",
-                price: "$26"
+                // price: "$26"
                 },
                 {
                 name: "Beef Steak Don",
                 alternativeName: "ビーフステーキ丼",
                 translatedName: "Beef Steak Rice Bowl",
-                price: "$28"
+                // price: "$28"
                 },
                 {
                 name: "Teriyaki Chicken Don",
                 alternativeName: "焼きチキン丼",
                 translatedName: "Teriyaki Chicken Rice Bowl",
-                price: "$18"
+                // price: "$18"
                 },
                 {
                 name: "Katsu Don",
                 alternativeName: "カツ丼",
                 translatedName: "Pork Cutlet and Egg Rice Bowl",
-                price: "$18"
+                // price: "$18"
                 },
             ],
         OTHERS:[
@@ -485,25 +485,25 @@ export default function Menu(){
                     name: "Gyoza",
                     alternativeName: "餃子",
                     translatedName: "Dumplings (Pan fried / Deep Fried)",
-                    price: "$12"
+                    // price: "$12"
                 },
                 {
                     name: "Spam Furai",
                     alternativeName: "スパムフライ",
                     translatedName: "Spam Fries",
-                    price: "$12"
+                    // price: "$12"
                     },
                 {
                     name: "Takoyaki",
                     alternativeName: "たこやき",
                     translatedName: "Grilled Octopus Balls",
-                    price: "$8 (7pcs)"
+                    // price: "$8 (7pcs)"
                 },
                 {
                     name: "Yasai Croquettes",
                     alternativeName: "野菜コロッケ",
                     translatedName: "Fried Vegetable Croquettes",
-                    price: "$8 (2pcs)"
+                    // price: "$8 (2pcs)"
                 },
             ],
 
@@ -519,10 +519,6 @@ export default function Menu(){
     }, []);
 
     const addToCart = (item: {
-        name: string;
-        alternativeName: string;
-        translatedName: string;
-        price: string;
     }) => {
         const updatedCartItems = [...cartItems, item];
         setCartItems(updatedCartItems);
