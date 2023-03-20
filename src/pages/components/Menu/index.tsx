@@ -535,7 +535,7 @@ export default function Menu(){
     return(
             <>
                 <div className="text-white bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-center sticky top-0 h-8">All Items {cartItemCount}</div>
-                <div className="grid xl:grid-cols-3 sm:flex px-10 bg-black text-white pb-4">
+                <div className="grid xl:grid-cols-3 grid-cols-1 px-10 bg-black text-white pb-4">
                     <div className="space-y-4">
                         <h1 className="text-bold text-4xl">APPETIZER</h1>
                         {items.APPETIZER.map((item, i) => (
